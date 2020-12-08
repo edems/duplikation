@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 author: Adam Horn
 email: info@adamhorn.info
-avatar: assets/images/triumph-3169602_1280_2.png
+avatar: assets/images/triumph-3169602_12802.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/duplikation" # the subpath of your site, e.g. /blog

@@ -2,7 +2,7 @@
 title: Wie lade ich ein
 layout: post
 ---
-
+<p> Unterlagen zum ausdrucken <a href="assets/images/Wie lade ich ein.pdf"><img alt="pdf logo" src="assets/images/icon-354359_640.png" width="100" height="150"></a></p>
 <iframe frameborder="0"
 scrolling="no" 
 height="500" 

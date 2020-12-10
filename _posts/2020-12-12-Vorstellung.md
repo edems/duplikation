@@ -10,7 +10,7 @@ layout: post
     <p> Text 1 </p>
   </div>
   <div class="column">
-    <img src="assets/images/ahmed.jpg" alt="Ahmed" style="width:100%">
+    <img src="assets/images/ahmed2.jpg" alt="Ahmed" style="width:100%">
     <p> Hallo mein Name ist Ahmed El-Ghussein. <br> <br>
 Ich komme aus der Nähe von Freiburg und bin Baujahr 1960.
 Seit über 20 Jahren bin ich selbständig im Bereich Werbung und Verkauf und Finanzen.

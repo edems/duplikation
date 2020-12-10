@@ -3,6 +3,8 @@ title: Wie suche ich Interessenten aus ?
 author: Adam
 layout: post
 ---
+  <a href="assets/images/Wie suche ich interessenten aus.pdf">zum Beispiel   <img alt="pdf logo" src="assets/images/icon-354359_640.png" width="100" height="100"></a>
+  
   <iframe frameborder="0"
   scrolling="no" 
   height="500" 

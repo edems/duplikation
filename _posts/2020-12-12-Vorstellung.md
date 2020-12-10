@@ -19,7 +19,7 @@ Partner bei Ascira bin ich von der ersten Stunde an, mein Team umfasst über 150
 von denen ich 8 selber gesponsert habe. <br>
  Als Teamplayer und Leader ist das auch der Grund weshalb ich mich mit
  Adam und Aurora zusammen getan habe um für neue Mitglieder eine Starthilfe zu gebe, egal aus welchem Team sie kommen!
-Unsere Idee war es dass ihr von 3 unterschiedlichen Leadern deren Ansichten und Arbeitsweisen kennenlernt damit ihr für euch das passende herauszuziehen könnt 😊
+Unsere Idee war es dass ihr von 3 unterschiedlichen Leadern deren Ansichten und Arbeitsweisen kennenlernt damit ihr für euch das passende herauszuziehen könnt.
  </p>
   </div>
   <div class="column">

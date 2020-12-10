@@ -7,7 +7,7 @@ layout: post
 <div class="row">
   <div class="column">
     <img src="assets/images/aurora.jpg" alt="Aurora" style="width:100%">
-    <p> 1 Test Test usw. 2  Test Test usw. 3 Test Test usw. 4 Test Test usw. </p>
+    <p> Text 1 </p>
   </div>
   <div class="column">
     <img src="assets/images/ahmed.jpg" alt="Ahmed" style="width:100%">
@@ -24,6 +24,6 @@ Unsere Idee war es dass ihr von 3 unterschiedlichen Leadern deren Ansichten und 
   </div>
   <div class="column">
     <img src="assets/images/adam.png" alt="Adam" style="width:100%">
-    <p> 1 Test Test usw. 2  Test Test usw. 3 Test Test usw. 4 Test Test usw. </p>
+    <p> Text 3 </p>
   </div>
 </div>

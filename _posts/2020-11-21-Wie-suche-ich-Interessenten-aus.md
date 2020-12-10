@@ -3,7 +3,7 @@ title: Wie suche ich Interessenten aus ?
 author: Adam
 layout: post
 ---
-  <a href="assets/images/Wie suche ich interessenten aus.pdf">Unterlagen zum ausdrucken <img alt="pdf logo" src="assets/images/icon-354359_640.png" width="100" height="150"></a>
+  <p> Unterlagen zum ausdrucken </p><a href="assets/images/Wie suche ich interessenten aus.pdf"><img alt="pdf logo" src="assets/images/icon-354359_640.png" width="100" height="150"></a>
   
   <iframe frameborder="0"
   scrolling="no" 

@@ -24,6 +24,10 @@ Unsere Idee war es dass ihr von 3 unterschiedlichen Leadern deren Ansichten und 
   </div>
   <div class="column">
     <img src="assets/images/adam.png" alt="Adam" style="width:100%">
-    <p> Text 3 </p>
+   <p> Hallo mein Name ist Adam Horn. <br> <br>
+Ich komme aus der Nähe von Bonn und bin Baujahr 1989.
+Auch ich bin seit einigen Jahren selbständig unterwegs und konnte einiges in meinen Jahren lernen und verwirklichen. Mit Ascira kam der Grosse durchbruch in meinem NM Geschäft, deshalb wünsche ich jedem, dass er diese Chance erkennt, so wie ich es getan habe.<br><br>
+ Ich habe mich sehr gefreut mit Aurora und Ahmed dieses Duplikations Werkzeug ins Leben zu rufen. Ich wünsche dir erfolgreichen aufbau deines Geschäftes mit Hilfe dieses Werkzeugs. 
+ </p>
   </div>
 </div>

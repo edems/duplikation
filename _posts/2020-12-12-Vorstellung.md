@@ -6,8 +6,12 @@ layout: post
 
 <div class="row">
   <div class="column">
-    <img src="assets/images/aurora.jpg" alt="Aurora" style="width:100%">
-    <p> Text 1 </p>
+    <img src="assets/images/aurora2.jpeg" alt="Aurora" style="width:100%">
+    <p> Aurora Máté <br> <br>
+    Herzliche Grüße aus Hamburg.
+Mein Name ist Aurora Máté. Ich bin gebürtige Ungarin und lebe seit 3 Jahrzehnten in Deutschland. Hier wurde ich bereits im Sommer 1989 von der Faszination Network Marketing in den Bann gezogen. Mir wurde sehr schnell bewusst, dass ich nirgendwo sonst vollkommener selbstbestimmter meine eigene Chefin sein kann. Als ASCIRA im Frühjahr 2020 an meine Tür klopfte, war mir sofort klar, dass ich hier am Anfang von etwas ganz Großem sein kann.<br><br>
+Die Entscheidung mit zwei weiteren Leadern zusammen ein „Startprogramm“ zu entwerfen ist mir eine große Freude, denn für viele Menschen stehen die Zeichen auf Kurswechsel und mit ASCIRA bauen wir die Firma für die Menschen auf.
+</p>
   </div>
   <div class="column">
     <img src="assets/images/ahmed2.jpg" alt="Ahmed" style="width:100%">
